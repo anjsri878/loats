@@ -11,7 +11,7 @@ I am 20 years old and just graduated from [UC San Diego HDSI](https://datascienc
 
 This is a picture of me on the beach :palm_tree:!
 
-![anjbeach](/images/anj_beach.jpg){: width="300" height="400" }
+![anjbeach](assets/img/anj_beach.jpg){: width="300" height="400" }
 
 I have a few hobbies that I really enjoy, like dancing, playing the piano, doing arts and crafts, and cooking. There's not too much that I don't enjoy doing...I'm always ready to go on adventures and try new things.
 
