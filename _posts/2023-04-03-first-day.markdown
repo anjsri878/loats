@@ -9,15 +9,26 @@ Hello everyone!!!! First day of the blog AHHHHHH!!
 This is a lie because I am actually writing this three days after I made the blog...lol.
 But yeah I was feeling really bored with my time off and decided to make a website because it's something that I've been wanting to do for a long time and now I finally have free time to do it.
 
-The creation of the blog was a slightly lengthy process because I really wanted to use Jekyll - it's been recommended so many times to me as an efficient way to make a website and I mostly liked that it gave a really clean output. So, I sat at this cute cafe in nyc called Gotan and learned how to use Jekyll. The cafe was really cute and I loved the aesthetic but it was lowkey wack because there was no wifi...but there were outlets??? So they didn't want people working but still gave outlets??? idk it was a very confusing situation. But I ended up staying there for around three-four hours. I was actually there to meet Heramb, one of my brother's close friends and also now one of my friends, but he came two hours late so I was just watching Jekyll tutorials for a bit.
+The creation of the blog was a slightly lengthy process because I really wanted to use Jekyll - it's been recommended so many times to me as an efficient way to make a website and I mostly liked that it gave a really clean output. So, I sat at this cute cafe in nyc called [Gotan](https://www.gotancafe.com/) in Tribeca and learned how to use Jekyll. The cafe was really cute and I loved the aesthetic but it was lowkey wack because there was no wifi...but there were outlets??? So they didn't want people working but still gave outlets??? idk it was a very confusing situation. But I ended up staying there for around three-four hours. I was actually there to meet Heramb, one of my brother's close friends and also now one of my friends, but he came two hours late so I was just watching Jekyll tutorials for a bit.
 
 Some cute pics of the cafe!
-<!-- ![gotan1](assets/img/03_04_gotan1.JPG) -->
-<img src="{{site.baseurl | prepend: site.url}}assets/03_04_gotan1.JPG" alt="gotan1" />
+<!-- ![gotan1](anjsri878.github.io/loats/assets/img/03_04_gotan1.JPG) -->
+
+
+<img src="{{site.baseurl | prepend: site.url}}/assets/img/03_04_gotan1.JPG" alt="gotan1" width="300" height= "400"/>
+<img src="{{site.baseurl | prepend: site.url}}/assets/img/03_04_gotan2.JPG" alt="gotan2" width="300" height= "400"/>
 
 
 
+The coffee was alright and so was the oatmeal...but also I don't think I was in the position to be judging their food because I could not really eat properly. BASICALLY I've been having trouble because my wisdom teeth are growing in and for the past week I could not open my mouth more than half and inch because myleft jaw is inflamed. So yeah eating food has been really not fun and actually quite painful. I have been sticking to coffee, smoothies, soups, and it kinda sucks :sweat:. I definitely need to come back to this place to try their sandos though because they looked really yum. Hermab got this herb omelette sandwich and it looked :fire:.
+
+After a couple of hours of working though, I got quite hungry. The coffee and oatmeal were definitely not enough to sustain me until dinner, so I went to find some ramen. Heramb suggested Danbo Ramen, which was in the West Village, around a 20 minute walk up from the cafe. I got there and sat by myself at the counter, and ordered their classic vegan ramen, which came with a vegan broth, thin noodles, scallions, sliced tofu and kikurage (wood ear mushrooms). Oh man that ramen was SO GOOD and hit the spot. It was still kind of hard to eat because of my jaw but I took my time and finished as much of it as I could. Definitely a 10/10 and one of the best ramens I've had. And it was only around $15 total!
+
+<img src="{{site.baseurl | prepend: site.url}}/assets/img/03_04_danbo.JPG" alt="danbo" width="300" height= "400"/>
 
 
+After ramen it was almost time for me to go back home so I just stalled time for a little bit and decided to get tea (remember the only reason I was drinking so many liquids it because solid food was nearly impossible for me to fit in my mouth lmao). I just kinda walked around until I found a cute one called Amano Cafe - I just got a mint tea :tea: and then caught the F train back to Brooklyn.
 
-The coffee was alright and so was the oatmeal...but also I don't think
+<img src="{{site.baseurl | prepend: site.url}}/assets/img/03_04_tea.JPG" alt="amano" width="300" height= "400"/>
+
+I spent the evening watching Atlanta and drinking a smoothie before going to bed. :zzz:
