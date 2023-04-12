@@ -21,9 +21,10 @@
 title: life of a twenty something
 email: anjanasrirams@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  a twenty year old living life :sunflower:
+  documenting my life :sunflower:
 baseurl: /loats # the subpath of your site, e.g. /blog
 url: https://anjsri878.github.io # the base hostname & protocol for your site, e.g. http://example.com
+instagram_username: localanjana
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
