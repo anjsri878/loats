@@ -23,7 +23,7 @@ email: anjanasrirams@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   a twenty year old living life :sunflower:
 baseurl: /loats # the subpath of your site, e.g. /blog
-url: anjsri878.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: https://anjsri878.github.io # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
