@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello! Welcome to my blog :relaxed: I'm glad you decided to stop by.
 
-I am 20 years old and just graduated from [UC San Diego HDSI](https://datascience.ucsd.edu/mission-and-goals/) :woman_technologist:
+I am 20 years old and just graduated from [UC San Diego HDSI](https://datascience.ucsd.edu/mission-and-goals/) :woman_technologist: :mortar_board:
 
 
 This is a picture of me on the beach :palm_tree:!
