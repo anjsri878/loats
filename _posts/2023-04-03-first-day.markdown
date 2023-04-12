@@ -15,8 +15,8 @@ Some cute pics of the cafe!
 <!-- ![gotan1](anjsri878.github.io/loats/assets/img/03_04_gotan1.JPG) -->
 
 
-<img src="{{site.baseurl | prepend: site.url}}/assets/img/03_04_gotan1.JPG" alt="gotan1" width="300" height= "400"/>
-<img src="{{site.baseurl | prepend: site.url}}/assets/img/03_04_gotan2.JPG" alt="gotan2" width="300" height= "400"/>
+<img src="{{site.baseurl | prepend: site.url}}/assets/img/gallery/03_04_gotan1.JPG" alt="gotan1" width="300" height= "400"/>
+<img src="{{site.baseurl | prepend: site.url}}/assets/img/gallery/03_04_gotan2.JPG" alt="gotan2" width="300" height= "400"/>
 
 
 
