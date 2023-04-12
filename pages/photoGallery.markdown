@@ -4,4 +4,4 @@ title: Gallery
 permalink: pages/photoGallery/
 ---
 
-Gallery
+{% include image-gallery.html folder="/assets/img" %}

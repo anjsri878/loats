@@ -27,14 +27,17 @@ url: https://anjsri878.github.io # the base hostname & protocol for your site, e
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
+
+
+
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
   - jemoji
 
-# image:
-#   source: assets/images
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
