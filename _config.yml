@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: life of a twenty something
+title: the life of anj
 email: anjanasrirams@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   documenting my life :sunflower:
@@ -38,6 +38,13 @@ plugins:
   - jekyll-feed
   - jemoji
 
+
+#email configuration
+domain: "http://thelifeofanj"
+mail_subject: "new post from thelifeofanj.com"
+mail_intro: "Hi my lovely friends! Hope you enjoy this new post..."
+mail_read_more: "continue reading..."
+mail_closing: "Hope you enjoy the latest post :)"
 
 
 # Exclude from processing.
