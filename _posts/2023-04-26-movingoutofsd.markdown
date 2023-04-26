@@ -5,6 +5,8 @@ date:   2023-04-26 10:00:00 -0400
 categories: jekyll update
 ---
 
+(Hi guys sorry I fixed the link)
+
 Helloooo everyone - I left San Diego!! Which seems bizarre to think about, but it's happened. I think packing up my boxes into the car and finally emptying out my room made it feel like I was finally done with college.
 
 After coming back from New York, I was actually pretty sick but tried to ignore the fact that I was sick so it was just me not taking care of myself and then getting sicker. It was not great lol. But I spent the first week back going kickboxing, hitting my favorite coffee shops (also peep my new [coffee shops](/pages/coffeeshops) page on the blog hehe) and packing up my room. There was more to pack then I anticipated but I would just put on some music or YouTube videos and grind for a couple hours to get things packed. Going through all of the stuff in my room was strange because 1) I realized I have way too many clothes and have a serious shopping issue but also 2) that college went by insanely fast. I found brochures for school events, notebooks from my freshman year classes, and birthday cards from friends; it was crazy to think that this phase of my life is coming to an end and I'll have to leave behind a lot of the people and memories that made college wonderful.
