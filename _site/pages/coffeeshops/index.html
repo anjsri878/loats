@@ -67,13 +67,15 @@
         
           <input class="carousel__activator" type="radio" name="carousel0" id="0e">
         
+          <input class="carousel__activator" type="radio" name="carousel0" id="0f">
+        
         
           
           
           
           
           <div class="carousel__controls">
-              <label class="carousel__control carousel__control--backward" for="0e"></label>
+              <label class="carousel__control carousel__control--backward" for="0f"></label>
               <label class="carousel__control carousel__control--forward" for="0b"></label>
           </div>
         
@@ -110,6 +112,15 @@
           
           <div class="carousel__controls">
               <label class="carousel__control carousel__control--backward" for="0d"></label>
+              <label class="carousel__control carousel__control--forward" for="0f"></label>
+          </div>
+        
+          
+          
+          
+          
+          <div class="carousel__controls">
+              <label class="carousel__control carousel__control--backward" for="0e"></label>
               <label class="carousel__control carousel__control--forward" for="0a"></label>
           </div>
         
@@ -131,6 +142,9 @@
             <li class="carousel__slide" style="background-image: url('/assets/img/food/coffee/longblack.jpg');">
               <h3 style="background-color:white; font-family:monospace">Long Black Coffee - Fountain Valley, CA</h3>
             
+            <li class="carousel__slide" style="background-image: url('/assets/img/food/coffee/marula.jpg');">
+              <h3 style="background-color:white; font-family:monospace">Maru Coffee - Los Angeles</h3>
+            
           </ul>
         </div>
         <div class="carousel__indicators">
@@ -144,6 +158,8 @@
               <label class="carousel__indicator" for="0d"></label>
             
               <label class="carousel__indicator" for="0e"></label>
+            
+              <label class="carousel__indicator" for="0f"></label>
             
         </div>
     </div>
@@ -279,6 +295,29 @@
   opacity: 1;
 }
 
+.carousel__activator:nth-of-type(6):checked ~ .carousel__track {
+  -webkit-transform: translateX(-500%);
+          transform: translateX(-500%);
+}
+.carousel__activator:nth-of-type(6):checked ~ .carousel__slide:nth-of-type(6) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(6):checked ~ .carousel__controls:nth-of-type(6) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(6):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(6) {
+  opacity: 1;
+}
+
 
 .carousel__control {
   height: 30px;
@@ -373,6 +412,11 @@
           transform: translateX(400%);
 }
 
+.carousel__track .carousel__slide:nth-of-type(6) {
+  -webkit-transform: translateX(500%);
+          transform: translateX(500%);
+}
+
 
 .carousel--scale .carousel__slide {
   -webkit-transform: scale(0);
@@ -419,6 +463,12 @@
 
 .carousel__slide:nth-of-type(5),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(5) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(6),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(6) {
   background-size: cover;
   background-position: center;
 }
@@ -497,15 +547,13 @@
         
           <input class="carousel__activator" type="radio" name="carousel1" id="1m">
         
-          <input class="carousel__activator" type="radio" name="carousel1" id="1n">
-        
         
           
           
           
           
           <div class="carousel__controls">
-              <label class="carousel__control carousel__control--backward" for="1n"></label>
+              <label class="carousel__control carousel__control--backward" for="1m"></label>
               <label class="carousel__control carousel__control--forward" for="1b"></label>
           </div>
         
@@ -614,15 +662,6 @@
           
           <div class="carousel__controls">
               <label class="carousel__control carousel__control--backward" for="1l"></label>
-              <label class="carousel__control carousel__control--forward" for="1n"></label>
-          </div>
-        
-          
-          
-          
-          
-          <div class="carousel__controls">
-              <label class="carousel__control carousel__control--backward" for="1m"></label>
               <label class="carousel__control carousel__control--forward" for="1a"></label>
           </div>
         
@@ -652,9 +691,6 @@
             
             <li class="carousel__slide" style="background-image: url('/assets/img/food/coffee/gupshup.jpg');">
               <h3 style="background-color:white; font-family:monospace">GupShup NYC</h3>
-            
-            <li class="carousel__slide" style="background-image: url('/assets/img/food/coffee/marula.jpg');">
-              <h3 style="background-color:white; font-family:monospace">Maru Coffee - Los Angeles</h3>
             
             <li class="carousel__slide" style="background-image: url('/assets/img/food/coffee/remi1.jpg');">
               <h3 style="background-color:white; font-family:monospace">Remi Flower &amp; Coffee - NYC</h3>
@@ -700,8 +736,6 @@
               <label class="carousel__indicator" for="1l"></label>
             
               <label class="carousel__indicator" for="1m"></label>
-            
-              <label class="carousel__indicator" for="1n"></label>
             
         </div>
     </div>
@@ -1021,29 +1055,6 @@
   opacity: 1;
 }
 
-.carousel__activator:nth-of-type(14):checked ~ .carousel__track {
-  -webkit-transform: translateX(-1300%);
-          transform: translateX(-1300%);
-}
-.carousel__activator:nth-of-type(14):checked ~ .carousel__slide:nth-of-type(14) {
-  transition: opacity 0.5s, -webkit-transform 0.5s;
-  transition: opacity 0.5s, transform 0.5s;
-  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
-  top: 0;
-  left: 0;
-  right: 0;
-  opacity: 1;
-  -webkit-transform: scale(1);
-          transform: scale(1);
-}
-.carousel__activator:nth-of-type(14):checked ~ .carousel__controls:nth-of-type(14) {
-  display: block;
-  opacity: 1;
-}
-.carousel__activator:nth-of-type(14):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(14) {
-  opacity: 1;
-}
-
 
 .carousel__control {
   height: 30px;
@@ -1178,11 +1189,6 @@
           transform: translateX(1200%);
 }
 
-.carousel__track .carousel__slide:nth-of-type(14) {
-  -webkit-transform: translateX(1300%);
-          transform: translateX(1300%);
-}
-
 
 .carousel--scale .carousel__slide {
   -webkit-transform: scale(0);
@@ -1277,12 +1283,6 @@
 
 .carousel__slide:nth-of-type(13),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(13) {
-  background-size: cover;
-  background-position: center;
-}
-
-.carousel__slide:nth-of-type(14),
-.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(14) {
   background-size: cover;
   background-position: center;
 }

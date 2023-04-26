@@ -14,6 +14,8 @@ carousels:
       text: Holsem Coffee - North Park, San Diego
     - image: /assets/img/food/coffee/longblack.jpg
       text: Long Black Coffee - Fountain Valley, CA
+    - image: /assets/img/food/coffee/marula.jpg
+      text: Maru Coffee - Los Angeles
   - images:
     - image: /assets/img/food/coffee/devocionwill.jpg
       text: Devoción - Williamsburg, BK
@@ -31,8 +33,6 @@ carousels:
       text: Peaky Barista
     - image: /assets/img/food/coffee/gupshup.jpg
       text: GupShup NYC
-    - image: /assets/img/food/coffee/marula.jpg
-      text: Maru Coffee - Los Angeles
     - image: /assets/img/food/coffee/remi1.jpg
       text: Remi Flower & Coffee - NYC
     - image: /assets/img/food/coffee/remi2.jpg
