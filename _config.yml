@@ -40,11 +40,11 @@ plugins:
 
 
 #email configuration
-domain: "http://thelifeofanj"
+domain: "http://thelifeofanj.com"
 mail_subject: "new post from thelifeofanj.com"
 mail_intro: "Hi my lovely friends! Hope you enjoy this new post..."
 mail_read_more: "continue reading..."
-mail_closing: "Hope you enjoy the latest post :)"
+mail_closing: "xoxo, anj"
 
 
 
