@@ -54,9 +54,9 @@ carousels:
 
 <p align="center">Cali Coffee:</p>
 
-{% include carousel.html height="100" unit="%" duration="7" number="1" %}
+{% include carousel.html height="100" unit="%" duration="10" number="1" %}
 <br>
 <br>
 <p align="center">NYC Coffee:</p>
 
-{% include carousel.html height="100" unit="%" duration="7" number="2" %}
+{% include carousel.html height="100" unit="%" duration="10" number="2" %}
