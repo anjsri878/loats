@@ -46,9 +46,9 @@ The Ladies: <br>
 
 | Name        | Age         |Hometown    | Description                            | Photo |
 | ----------- | ----------- |----------- | -------------------------------------- |----------- |
-| Jordyn      | 20          |Canade      | gym baddie + my trip bestie            | <img src="{{site.baseurl | prepend: site.url}}/assets/img/travel/cast/jordyn.png" alt="jordyn" width="50" height= "50"/>        |
+| Jordyn      | 20          |Canada      | gym baddie + my trip bestie            | <img src="{{site.baseurl | prepend: site.url}}/assets/img/travel/cast/jordyn.png" alt="jordyn" width="50" height= "50"/>        |
 | Rose        | 22          |Canada      | French speaking girl from Quebec + also my trip bestie|<img src="{{site.baseurl | prepend: site.url}}/assets/img/travel/cast/rose.png" alt="jordyn" width="50" height= "50"/>       |
-| Barbara     | 28          |Italy       | world traveler and coolest woman alive|<img src="{{site.baseurl | prepend: site.url}}/assets/img/travel/cast/barbara.png" alt="jordyn" width="50" height= "50"/>       |
+| Barbara (tour guide)     | 28          |Italy       | world traveler and coolest woman alive|<img src="{{site.baseurl | prepend: site.url}}/assets/img/travel/cast/barbara.png" alt="jordyn" width="50" height= "50"/>       |
 | Megan       | 27          |Australia   | motorbiking baddie|<img src="{{site.baseurl | prepend: site.url}}/assets/img/travel/cast/megan.png" alt="jordyn" width="50" height= "50"/>       |
 | Casey       | 21          |US          | sweet but loved talking about herself| <img src="{{site.baseurl | prepend: site.url}}/assets/img/travel/cast/casey.png" alt="jordyn" width="50" height= "50"/>      |
 | Georgia no. 1| 28         |New Zealand | sweet adventurer| <img src="{{site.baseurl | prepend: site.url}}/assets/img/travel/cast/geo1.png" alt="jordyn" width="50" height= "50"/>      |
