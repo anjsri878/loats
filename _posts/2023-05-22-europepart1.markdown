@@ -172,7 +172,7 @@ This was going to be a long transit day because we were traveling from Paris to 
 
 --
 
-I wanted to make shorter posts so that they are easier to take in and because there are just a fuck ton of details about this trip that I want to share. Stay tuned for the next couple of posts! Side note:  I put a decent amount of effort into making that table up there and I'm quite proud of it...hehe. Hopefully you can use it as a reference in my future posts.
+I wanted to make shorter posts so that they are easier to take in and because there are just a ton of details about this trip that I want to share. Stay tuned for the next couple of posts! Side note:  I put a decent amount of effort into making that table up there and I'm quite proud of it...hehe. Hopefully you can use it as a reference in my future posts.
 
 xoxo
 
