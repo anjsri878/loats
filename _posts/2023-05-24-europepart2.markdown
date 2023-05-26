@@ -44,11 +44,11 @@ After dinner, we all came down and still wanted to hang out before going to bed.
 
 
 **Day 5 - 5/11 - Second full day in Interlaken** <br>
-I Woke up pretty early and had breakfast with the rest of the crew downstairs. Today I was going on a solo adventure to Jungfrau, which is the highest accessible peak in Europe! The highlight up there was the stunning views of the surrounding mountainscape. But since it was really rainy and misty, I knew that the views were not going to be the best. After eating, I made my way to the train station and asked the people at the station to help map out the path for me. First, i took the train to the Grindelwald terminal terminal, followed by a cable car up to Eigerletscher.
+I Woke up pretty early and had breakfast with the rest of the crew downstairs. Today I was going on a solo adventure to Jungfrau, which is the highest accessible peak in Europe! The highlight up there was the stunning views of the surrounding mountainscape. But since it was really rainy and misty, I knew that the views were not going to be the best. After eating, I made my way to the train station and asked the people at the station to help map out the path for me. First, I took the train to the Grindelwald terminal, followed by a cable car up to Eigerletscher.
 
 <img src="{{site.baseurl | prepend: site.url}}/assets/img/travel/switz/eiger.JPG" alt="switzy" width="200" height= "300"/>
 
-When I got off the cable car :mountain_cableway: and stepped into the station, I could see through the windows that the station was surrounded by white, snow covered mountains. I went outside to see what the air was like and stepped into the most beautiful powdery snow. It was actively snowing and walking in the soft snow was surreal (californians really don't know how to react to snow lol). It was quiet all around me and all I could hear was the wintery sounds of the mountains. I got emotional just being there and thinking about how lucky I was to be having these experiences.
+When I got off the cable car :mountain_cableway: and stepped into the station, I could see through the windows that the station was surrounded by white, snow covered mountains. I went outside to see what the air was like and stepped into the most beautiful powdery snow. It was actively snowing and walking in the soft snow was surreal (Californians really don't know how to react to snow lol). It was quiet all around me and all I could hear was the wintery sounds of the mountains. I got emotional just being there and thinking about how lucky I was to be having these experiences.
 
 <img src="{{site.baseurl | prepend: site.url}}/assets/img/travel/switz/meinsnow.JPG" alt="switzy" width="300" height= "200"/>
 
@@ -120,7 +120,7 @@ The day was a little strange because 1) we knew it could never be as good as the
 
 <img src="{{site.baseurl | prepend: site.url}}/assets/img/travel/italy/mejordancol.JPG" alt="italia" width="300" height= "200"/>
 
-We then got a cappuccino from some cafe (so good btw). Coffee culture in Italy is very interesting - people usually order and drink their coffees at the bar, and they usually get something small like a Capuccino or, more commonly, just an espresso shot (quite nasty, actually). It's meant to be more of a quick refuel rather than something to sit and enjoy. :coffee:
+We then got a cappuccino from some cafe (so good btw). Coffee culture in Italy is very interesting - people usually order and drink their coffees at the bar, and they usually get something small like a cappuccino or, more commonly, just an espresso shot (quite nasty, actually). It's meant to be more of a quick refuel rather than something to sit and enjoy. :coffee:
 
 Afterwards, Jordyn and I walked towards the Roman Forum, but the line to get in was so long and the rain so hard that we decided to abandon it and walk to Trastevere for lunch (food > historical sights am I right). We got there and went to a restaurant called Nonarella, where I had a bufalina pizza (it was avg! way too much cheese).
 
