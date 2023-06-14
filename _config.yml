@@ -21,7 +21,7 @@
 title: the life of anj
 email: thelifeofanj@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  documenting my life :sunflower:
+  documenting life's adventures
 # baseurl: /loats # the subpath of your site, e.g. /blog
 url: https://thelifeofanj.com # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: localanjana
@@ -37,15 +37,24 @@ theme: minima
 plugins:
   - jekyll-feed
   - jemoji
+  - jekyll-seo-tag
+  - jekyll-toc
 
 
 #email configuration
 domain: "http://thelifeofanj.com"
 mail_subject: "new post from thelifeofanj.com"
-mail_intro: "Hi my lovely friends! Hope you enjoy this new post..."
+mail_intro: "Hi my lovely friends! Hope you enjoy this post..."
 mail_read_more: "continue reading..."
 mail_closing: "xoxo, anj"
 
+# TOC Settings
+toc:
+ min_level: 1
+ max_level: 3
+ list_class: toc
+ list_class: toc__list
+ sublist_class: toc__sublist
 
 
 

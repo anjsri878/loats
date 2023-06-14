@@ -37,3 +37,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 #adding emojis
 gem "jemoji"
 gem "webrick"
+
+#adding table of contents
+gem "jekyll-toc"
