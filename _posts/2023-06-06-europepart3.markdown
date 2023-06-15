@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Europe Trip Pt. 3 - The Conclusion - Rapallo, Nice, Barcelona"
-date:   2023-06-06 1:00:00 -0300
+date:   2023-06-14 1:00:00 -0300
 categories: jekyll update
 ---
 
